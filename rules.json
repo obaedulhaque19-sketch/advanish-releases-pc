@@ -1,6 +1,5 @@
 {
-  "blockHosts": ["https://www.facebook.com/",
-                "https://www.facebook.com/"],
+  "blockHosts": [],
   "allowHosts": [],
   "urlPatterns": []
 }

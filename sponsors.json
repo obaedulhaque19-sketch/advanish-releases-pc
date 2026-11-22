@@ -1,29 +1,29 @@
 {
   "topBanner": {
     "enabled": true,
-    "imageUrl": "https://example.com/banner-728x90.png",
+    "imageUrl": "https://www.magnific.com/psd/728x90",
     "mobileImageUrl": "https://example.com/mobile-banner-320x50.png",
-    "linkUrl": "https://example.com",
+    "linkUrl": "https://www.canva.com/",
     "alt": "Sponsored"
   },
   "leftBanner": {
     "enabled": true,
-    "imageUrl": "https://example.com/side-left.png",
-    "linkUrl": "https://example.com",
+    "imageUrl": "https://www.magnific.com/psd/728x90",
+    "linkUrl": "https://www.canva.com/",
     "alt": "Sponsored"
   },
   "rightBanner": {
     "enabled": true,
-    "imageUrl": "https://example.com/side-right.png",
-    "linkUrl": "https://example.com",
+    "imageUrl": "https://www.magnific.com/psd/728x90",
+    "linkUrl": "https://www.canva.com/",
     "alt": "Sponsored"
   },
   "pinnedShortcuts": [
     {
       "id": "partner-1",
       "title": "Partner",
-      "iconUrl": "https://example.com/icon.png",
-      "linkUrl": "https://example.com"
+      "iconUrl": "https://www.magnific.com/psd/728x90",
+      "linkUrl": "https://www.canva.com/"
     }
   ]
 }

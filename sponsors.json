@@ -8,13 +8,13 @@
   },
   "leftBanner": {
     "enabled": true,
-    "imageUrl": "https://www.magnific.com/psd/728x90",
+    "imageUrl": "https://img.magnific.com/free-vector/minimalist-furniture-leaderboard-banner_742173-9040.jpg?semt=ais_hybrid&w=740&q=80",
     "linkUrl": "https://www.canva.com/",
     "alt": "Sponsored"
   },
   "rightBanner": {
     "enabled": true,
-    "imageUrl": "https://www.magnific.com/psd/728x90",
+    "imageUrl": "https://img.magnific.com/free-vector/minimalist-furniture-leaderboard-banner_742173-9040.jpg?semt=ais_hybrid&w=740&q=80",
     "linkUrl": "https://www.canva.com/",
     "alt": "Sponsored"
   },
@@ -22,7 +22,7 @@
     {
       "id": "partner-1",
       "title": "Partner",
-      "iconUrl": "https://www.magnific.com/psd/728x90",
+      "iconUrl": "https://img.magnific.com/free-vector/minimalist-furniture-leaderboard-banner_742173-9040.jpg?semt=ais_hybrid&w=740&q=80",
       "linkUrl": "https://www.canva.com/"
     }
   ]

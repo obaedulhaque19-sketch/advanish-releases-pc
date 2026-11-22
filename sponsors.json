@@ -1,1 +1,23 @@
+{
+  "topBanner": {
+    "enabled": true,
+    "imageUrl": "https://www.magnific.com/psd/728x90",
+    "mobileImageUrl": "https://advanish-stats.obaedulhaque19.workers.dev/dashboard?key=MySecretPass2026",
+    "linkUrl": "",
+    "alt": "Sponsored"
+  },
+  "leftBanner": {
+    "enabled": false,
+    "imageUrl": "",
+    "linkUrl": "",
+    "alt": "Sponsored"
+  },
+  "rightBanner": {
+    "enabled": false,
+    "imageUrl": "",
+    "linkUrl": "",
+    "alt": "Sponsored"
+  },
+  "pinnedShortcuts": []
+}
 
